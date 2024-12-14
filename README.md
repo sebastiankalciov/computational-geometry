@@ -1,3 +1,3 @@
 # Computational geometry (laboratory)
-- Algorithms to be added soon.
+- Solved problems to be added soon
 
