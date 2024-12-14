@@ -1,2 +1,3 @@
-# computational-geometry
-Repository used for storing programs developed for activities.
+# Computational geometry (laboratory)
+- Algorithms to be added soon.
+
